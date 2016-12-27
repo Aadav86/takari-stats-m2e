@@ -14,7 +14,7 @@
 * org.eclipse.m2e.core
 * Bundles that have '/.takaristats' marker entry
 
-# What Maven pligins are included in the report
+# What Maven plugins are included in the report
 
 Maven plugins that have the following groupId prefixes are included in the 
 report
